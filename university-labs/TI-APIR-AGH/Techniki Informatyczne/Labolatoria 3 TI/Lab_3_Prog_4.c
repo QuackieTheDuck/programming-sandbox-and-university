@@ -20,7 +20,6 @@ int main (){
 	n=rand();
 	if(n>min&&n<max){
 		//tutaj trzeba wcisnac kod, albo zdefiniowac funkcje odpowiadajaca za szukanie binarne
-		// co to wogule jest wtf co za leb to wymyslal
 		printf("%d", n);
 	} else goto losowanie;*/
 	return 0;

@@ -21,7 +21,7 @@ int main(){
     zliczanie(tab,sumy,n);
     //wydrukuj(sumy,11); //debugowanie
    
-   //trzeba to jakos skrocic bo troche za dlugie to mosz 
+   //trzeba to jakos skrocicz 
     for (int i=0; i<11; ++i){
      cout<<"Suma oczek rowna ";
         if (i==1) cout<<7;
